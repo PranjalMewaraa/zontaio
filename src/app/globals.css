@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: clash;
+  src: url(/src/app/fonts/clash.otf);
+}
+:root {
+  --background: #ffffff;
+  --foreground: #171717;
+}
+
+@media (prefers-color-scheme: dark) {
+  :root {
+    --background: #0a0a0a;
+    --foreground: #ededed;
+  }
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+.roadmap-progress-fill {
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 0.125rem;
+  border-radius: 5px;
+  transition: height 0.2s ease-out;
+  z-index: -1;
+}
+.roadmap-progress-bar {
+  position: relative;
+  width: 2px;
+  flex-shrink: 0;
+  border-radius: 32px;
+  background: #ffffff26;
+  z-index: 10;
+}
+.roadmap-progress-bar {
+  height: 1120px;
+}
