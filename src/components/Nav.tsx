@@ -3,7 +3,7 @@ import React from "react";
 const Nav = () => {
   return (
     <div className="w-full px-16 font-black h-20 flex justify-between items-center">
-      <p className="font-[clash] text-9xl">Zonta.io</p>
+      <p className="font-[clash] text-4xl md:text-9xl">Zonta.io</p>
       <div
         className="gap-4 flex"
         onClick={() => {
