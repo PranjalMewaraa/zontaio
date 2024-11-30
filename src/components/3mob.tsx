@@ -9,7 +9,7 @@ const Mob = () => {
   ];
   return (
     <section className="w-full h-fit px-4 flex justify-center items-center flex-col py-10 sm:px-6 lg:px-8 lg:py-14 mx-auto bg-black bg-dot-black/[0.1]  text-white relative">
-      <img src="/img.png" className="w-full min-h-auto" alt="" />
+      <img src="/mob3.png" className="w-full min-h-auto" alt="" />
       <h1 className="font-semibold text-[4vw]">
         Innovative Problem Solving for
       </h1>

@@ -18,7 +18,7 @@ const Compare = () => {
           className="rounded-3xl w-full md:w-1/2  p-8"
           style={{ boxShadow: "0px 4px 24px 0px #B6D7FF inset" }}
         >
-          <p className="text-white font-bold py-4">GOAT Finance</p>
+          <p className="text-white font-bold py-4">ZONTAA Finance</p>
           {data1.map((item) => {
             return (
               <p
@@ -51,7 +51,7 @@ const Compare = () => {
           className="rounded-3xl w-full md:w-1/2  p-8"
           style={{ boxShadow: "0px 4px 24px 0px #B6D7FF inset" }}
         >
-          <p className="text-white font-bold py-4">GOAT Finance</p>
+          <p className="text-white font-bold py-4">ZONTAA Finance</p>
           {data1.map((item) => {
             return (
               <p
@@ -86,7 +86,7 @@ const Compare = () => {
           className="rounded-3xl w-full md:w-1/3  p-8"
           style={{ boxShadow: "0px 4px 24px 0px #B6D7FF inset" }}
         >
-          <p className="text-white font-bold py-4">GOAT Finance</p>
+          <p className="text-white font-bold py-4">ZONTAA Finance</p>
           {data1.map((item) => {
             return (
               <p
@@ -119,7 +119,7 @@ const Compare = () => {
           className="rounded-3xl w-full md:w-1/3  p-8"
           style={{ boxShadow: "0px 4px 24px 0px #B6D7FF inset" }}
         >
-          <p className="text-white font-bold py-4">GOAT Finance</p>
+          <p className="text-white font-bold py-4">ZONTAA Finance</p>
           {data1.map((item) => {
             return (
               <p
@@ -152,7 +152,7 @@ const Compare = () => {
           className="rounded-3xl w-full md:w-1/3  p-8"
           style={{ boxShadow: "0px 4px 24px 0px #B6D7FF inset" }}
         >
-          <p className="text-white font-bold py-4">GOAT Finance</p>
+          <p className="text-white font-bold py-4">ZONTAA Finance</p>
           {data1.map((item) => {
             return (
               <p

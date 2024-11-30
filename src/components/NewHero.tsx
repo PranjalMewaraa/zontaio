@@ -40,76 +40,9 @@ const HeroSection = () => {
           <div className="hidden md:flex gap-4 flex-col md:flex-row my-4">
             <div className="flex flex-col gap-2 items-center">
               <div className="rounded-[32px] flex gap-4 p-16 min-h-24 min-w-64 bg-[rgba(223,223,223,0.1)] shadow-[inset_0px_4px_14px_0px_#B6D7FF]">
-                <svg
-                  xmlns="http://www.w3.org/2000/svg"
-                  width="36"
-                  height="30"
-                  viewBox="0 0 36 30"
-                  fill="none"
-                >
-                  <g clip-path="url(#clip0_71_3341)">
-                    <path
-                      d="M12.832 9.57472L7.3042 0.000244141L18.3599 0.000245107L12.832 9.57472Z"
-                      fill="#E0FBFF"
-                    />
-                    <path
-                      d="M23.8872 9.57472L18.3594 0.000244141L29.415 0.000245107L23.8872 9.57472Z"
-                      fill="#C6E6FF"
-                    />
-                    <path
-                      d="M18.3599 0L23.8877 9.57447H12.832L18.3599 0Z"
-                      fill="#D0EFFF"
-                    />
-                    <path
-                      d="M29.414 0L34.9418 9.57447H23.8862L29.414 0Z"
-                      fill="#B3D6FF"
-                    />
-                    <path
-                      d="M29.414 19.1489L23.8862 9.57446H34.9419L29.414 19.1489Z"
-                      fill="#9BBFFF"
-                    />
-                    <path
-                      d="M17.083 20.4253L11.5552 10.8508H22.6108L17.083 20.4253Z"
-                      fill="#B6D7FF"
-                    />
-                    <path
-                      d="M22.6108 10.8511L28.1386 20.4255H17.083L22.6108 10.8511Z"
-                      fill="#9EC1FF"
-                    />
-                    <path
-                      d="M11.5556 10.8511L17.0834 20.4255H6.02783L11.5556 10.8511Z"
-                      fill="#C6E6FF"
-                    />
-                    <path
-                      d="M11.5556 30L6.02783 20.4255H17.0835L11.5556 30Z"
-                      fill="#CFF0FF"
-                    />
-                    <path
-                      d="M6.02782 20.4253L11.5556 29.9998H0.5L6.02782 20.4253Z"
-                      fill="#DEFCFF"
-                    />
-                    <path
-                      d="M22.6109 30L17.083 20.4255H28.1387L22.6109 30Z"
-                      fill="#B5D5FF"
-                    />
-                    <path
-                      d="M28.1386 20.4253L33.6664 29.9998H22.6108L28.1386 20.4253Z"
-                      fill="#C5E4FF"
-                    />
-                  </g>
-                  <defs>
-                    <clipPath id="clip0_71_3341">
-                      <rect
-                        width="35"
-                        height="30"
-                        fill="white"
-                        transform="translate(0.5)"
-                      />
-                    </clipPath>
-                  </defs>
-                </svg>
+                <img src="/zglow.png" width={36} alt="" />
                 <h1 className="font-bold text-white text-3xl">
-                  1 GOAT = $0.5864
+                  1 ZONTAA = $0.5864
                 </h1>
               </div>
               <p className="text-2xl text-white flex items-center gap-2">
@@ -213,7 +146,7 @@ const HeroSection = () => {
                   />
                 </svg>
                 <h1 className="font-bold text-white text-3xl">
-                  1 GOAT = $0.8778
+                  1 ZONTAA = $0.8778
                 </h1>
               </div>
               <p className="text-2xl text-white flex items-center gap-2">
@@ -313,7 +246,7 @@ const HeroSection = () => {
                   </defs>
                 </svg>
                 <h1 className="font-bold text-white text-3xl">
-                  1 GOAT = $0.5864
+                  1 ZONTAA = $0.5864
                 </h1>
               </div>
               <p className="text-2xl text-white flex items-center gap-2">
@@ -359,7 +292,7 @@ const HeroSection = () => {
                   />
                 </svg>
                 <h1 className="font-bold text-white text-3xl">
-                  1 GOAT = $0.8778
+                  1 ZONTAA = $0.8778
                 </h1>
               </div>
               <p className="text-2xl text-white flex items-center gap-2">

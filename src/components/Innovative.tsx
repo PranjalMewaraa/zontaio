@@ -15,7 +15,7 @@ const Innovative = () => {
         automated AI trading platform harnessing blockchain technology.
       </p>
       <video
-        src="https://rcofinance.com/video/RCO-ready-optimized.mp4"
+        src="https://ZONTAAfinance.com/video/ZONTAA-ready-optimized.mp4"
         autoPlay
         muted
         className="p-4 w-2/3 my-4"
