@@ -2,7 +2,7 @@ import React from "react";
 
 const Footer2 = () => {
   return (
-    <div className="w-full h-[30vh]  p-8 text-white  gap-6 flex flex-col md:flex-row items-center md:items-center  md:justify-between">
+    <div className="w-full h-[25vh]  p-8 text-white  gap-6 flex flex-col md:flex-row items-center md:items-center  md:justify-between">
       <div className="flex flex-col h-full w-fit items-start justify-between">
         <h1 className="font-black text-9xl font-[clash] ">Zonta.io</h1>
         <p className="text-sm">© 2024 Zonta.io. All Right Reserved</p>

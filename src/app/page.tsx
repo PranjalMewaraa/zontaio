@@ -12,11 +12,12 @@ import FAQ from "@/components/FAQ";
 import Innovative from "@/components/Innovative";
 import Footer from "@/components/Footer2";
 import Nav from "@/components/Nav";
+import MegaHero from "@/components/MegaHero";
 export default function Home() {
   return (
     <div className="w-full h-full bg-black text-white flex-col">
       <Nav />
-      <HeroSection />
+      <MegaHero />
       <Innovative />
       <Mob />
       <Cardx />

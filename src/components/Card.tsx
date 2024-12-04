@@ -27,7 +27,7 @@ const Cardx = () => {
             {data.map((item, index) => (
               <div
                 key={index}
-                className="flex-shrink-0 w-96 sm:w-96 bg-[#1A2238] p-6 rounded-xl shadow-md"
+                className="flex-shrink-0 w-96 sm:w-[30%] bg-[#1A2238] p-6 rounded-xl shadow-md"
               >
                 <div className="p-3 bg-blue-500 rounded-full mb-4 w-fit">
                   <svg

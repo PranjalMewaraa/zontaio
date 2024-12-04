@@ -7,8 +7,8 @@ const TokenRenum = () => {
         Tokenomics <br />
       </p>
       <div className="w-full flex justify-center items-center p-8">
-        <img src="/tokenomics.png" alt="" className="hidden md:flex" />
-        <img src="/tokenmob.png" alt="" className="flex md:hidden" />
+        <img src="/tokpc.png" alt="" className="hidden md:flex" />
+        <img src="/tokmob.png" alt="" className="flex md:hidden" />
       </div>
     </div>
   );

@@ -14,12 +14,7 @@ const Innovative = () => {
         commodities, FX, ETF, derivatives & other RWAs. Zonta.io is the first
         automated AI trading platform harnessing blockchain technology.
       </p>
-      <video
-        src="https://ZONTAAfinance.com/video/ZONTAA-ready-optimized.mp4"
-        autoPlay
-        muted
-        className="p-4 w-2/3 my-4"
-      ></video>
+      <video src="./n.mp4" autoPlay muted className="p-4 w-2/3 my-4"></video>
       <p className="z-10 font-black text-5xl flex gap-4 text-white">
         Read White Paper{" "}
         <span className="p-4 shadow-[ 0px 0px 14px 0px #B3D6FF] bg-white rounded-full">

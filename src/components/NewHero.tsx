@@ -495,65 +495,65 @@ const HeroSection = () => {
         </section>
       ),
     },
-    {
-      id: 3,
-      content: (
-        <section className="w-screen h-screen md:min-h-screen gap-8 bg-black  dark:bg-dot-white/[0.2] bg-dot-black/[0.2] flex flex-col  items-center p-8 text-white justify-center md:h-auto relative">
-          <img src="/bg3.png" className="w-full absolute z-10" alt="" />
-          <h1 className="z-10 text-center font-regular leading-normal font-black text-9xl md:text-[5vw]">
-            Beta Platform <br />
-            <span className="text-gray-400 font-normal">Coming Soon</span>
-          </h1>
-          <p className="text-xl xl:text-3xl md:text-base z-10 text-center">
-            <br />
-            Experience advanced AI & ML powered investing like never before with
-            our fully automated AI-powered robo advisor
-            <br />
-            Easily convert your crypto into ETFs, Derivatives and other
-            Real-World Assets
-          </p>
-          <p className="z-10 font-black text-4xl flex gap-4 text-white">
-            Join Pre Sale{" "}
-            <span className="p-4 shadow-[ 0px 0px 14px 0px #B3D6FF] bg-white rounded-full">
-              <svg
-                xmlns="http://www.w3.org/2000/svg"
-                width="18"
-                height="16"
-                viewBox="0 0 18 16"
-                fill="none"
-              >
-                <g clip-path="url(#clip0_71_3382)">
-                  <path
-                    d="M1.354 7.5752H16.204"
-                    stroke="#141239"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                  <path
-                    d="M10.1289 1.5L16.2039 7.575L10.1289 13.65"
-                    stroke="#141239"
-                    stroke-width="2"
-                    stroke-linecap="round"
-                    stroke-linejoin="round"
-                  />
-                </g>
-                <defs>
-                  <clipPath id="clip0_71_3382">
-                    <rect
-                      width="17"
-                      height="15"
-                      fill="white"
-                      transform="translate(0.354004 0.5)"
-                    />
-                  </clipPath>
-                </defs>
-              </svg>
-            </span>
-          </p>
-        </section>
-      ),
-    },
+    // {
+    //   id: 3,
+    //   content: (
+    //     <section className="w-screen h-screen md:min-h-screen gap-8 bg-black  dark:bg-dot-white/[0.2] bg-dot-black/[0.2] flex flex-col  items-center p-8 text-white justify-center md:h-auto relative">
+    //       <img src="/bg3.png" className="w-full absolute z-10" alt="" />
+    //       <h1 className="z-10 text-center font-regular leading-normal font-black text-9xl md:text-[5vw]">
+    //         Beta Platform <br />
+    //         <span className="text-gray-400 font-normal">Coming Soon</span>
+    //       </h1>
+    //       <p className="text-xl xl:text-3xl md:text-base z-10 text-center">
+    //         <br />
+    //         Experience advanced AI & ML powered investing like never before with
+    //         our fully automated AI-powered robo advisor
+    //         <br />
+    //         Easily convert your crypto into ETFs, Derivatives and other
+    //         Real-World Assets
+    //       </p>
+    //       <p className="z-10 font-black text-4xl flex gap-4 text-white">
+    //         Join Pre Sale{" "}
+    //         <span className="p-4 shadow-[ 0px 0px 14px 0px #B3D6FF] bg-white rounded-full">
+    //           <svg
+    //             xmlns="http://www.w3.org/2000/svg"
+    //             width="18"
+    //             height="16"
+    //             viewBox="0 0 18 16"
+    //             fill="none"
+    //           >
+    //             <g clip-path="url(#clip0_71_3382)">
+    //               <path
+    //                 d="M1.354 7.5752H16.204"
+    //                 stroke="#141239"
+    //                 stroke-width="2"
+    //                 stroke-linecap="round"
+    //                 stroke-linejoin="round"
+    //               />
+    //               <path
+    //                 d="M10.1289 1.5L16.2039 7.575L10.1289 13.65"
+    //                 stroke="#141239"
+    //                 stroke-width="2"
+    //                 stroke-linecap="round"
+    //                 stroke-linejoin="round"
+    //               />
+    //             </g>
+    //             <defs>
+    //               <clipPath id="clip0_71_3382">
+    //                 <rect
+    //                   width="17"
+    //                   height="15"
+    //                   fill="white"
+    //                   transform="translate(0.354004 0.5)"
+    //                 />
+    //               </clipPath>
+    //             </defs>
+    //           </svg>
+    //         </span>
+    //       </p>
+    //     </section>
+    //   ),
+    // },
   ];
   useEffect(() => {
     const interval = setInterval(() => {

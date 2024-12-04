@@ -6,15 +6,15 @@ const More = () => {
     },
     {
       title: "Exclusive Token Price Discounts",
-      desc: "Enjoy early access to ZONTAAF tokens at a reduced rate, allowing you to buy in before market prices rise. Benefit from the token’s growth potential while maximizing your investment. ",
+      desc: "Enjoy early access to ZONTA tokens at a reduced rate, allowing you to buy in before market prices rise. Benefit from the token’s growth potential while maximizing your investment. ",
     },
     {
       title: "Reduced Transaction & Subscription Fees",
-      desc: "      Save big with up to 40% off trading fees. As the platform grows, your savings increase, and ZONTAAF holders enjoy complimentary access to the advanced AI Robo-Advisor, further enhancing your trading efficiency.",
+      desc: "      Save big with up to 40% off trading fees. As the platform grows, your savings increase, and ZONTA holders enjoy complimentary access to the advanced AI Robo-Advisor, further enhancing your trading efficiency.",
     },
     {
       title: "Active Role in Token Governance",
-      desc: "  Shape the future of ZONTAA Finance by participating in governance decisions. As a token holder, you have the power to vote on key protocol upgrades, new features, and the allocation of community resources, giving you direct influence over the platform’s growth and development.",
+      desc: "  Shape the future of ZONTA Finance by participating in governance decisions. As a token holder, you have the power to vote on key protocol upgrades, new features, and the allocation of community resources, giving you direct influence over the platform’s growth and development.",
     },
     {
       title: "Massive Gains from Presale Stages",
@@ -22,7 +22,7 @@ const More = () => {
     },
     {
       title: "Staking & Dividend",
-      desc: " By holding and staking ZONTAAF tokens, you contribute to platform liquidity and receive additional ZONTAAF tokens as rewards. Plus, you'll earn dividends from the platform’s revenue, giving you a share of its profits based on the size of your holdings. The more tokens you hold, the more you earn.",
+      desc: " By holding and staking ZONTAF tokens, you contribute to platform liquidity and receive additional ZONTA tokens as rewards. Plus, you'll earn dividends from the platform’s revenue, giving you a share of its profits based on the size of your holdings. The more tokens you hold, the more you earn.",
     },
   ];
 

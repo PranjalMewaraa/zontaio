@@ -24,6 +24,25 @@ const FAQ: React.FC = () => {
       answer:
         "A DeFi Debit Card allows you to spend your crypto assets in real-time by converting them to fiat currency at the point of sale, enabling seamless everyday transactions.",
     },
+    {
+      question: "On Which Exchanges Will $Zonta Tokens Be Listed?",
+      answer:
+        "We are in discussions with multiple major cryptocurrency exchanges and plan to list $Zonta tokens shortly after the token sale concludes. Specific exchange listings will be announced via our official channels.",
+    },
+    {
+      question: "Has the token smart contract undergone Auditing?",
+      answer:
+        "Yes, the token smart contract has been audited by SolidProof, a leading independent security firm, to ensure its integrity and security. Click here to view the audit report",
+    },
+    {
+      question: "What is Minimum Token Purchase Amount ?",
+      answer:
+        "The minimum purchase amount for $Zonta tokens is set at $50 or the equivalent in other accepted cryptocurrencies.",
+    },
+    {
+      question: "Are There Any Taxes Applied to Tokens??",
+      answer: "1% buy and 4% sell tax on all the Zonta token transactions.",
+    },
   ];
 
   const toggleAccordion = (index: number) => {
